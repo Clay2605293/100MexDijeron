@@ -1,0 +1,39 @@
+[
+    {
+        "question": "Nombra algo que encuentras en la cocina",
+        "answers": [
+            ["Plato", 30],
+            ["Cuchillo", 25],
+            ["Olla", 20],
+            ["Sarten", 15],
+            ["Taza", 10]
+        ]
+    },
+    {
+        "question": "Nombra algo que puedes encontrar en un escritorio",
+        "answers": [
+            ["Computadora", 40],
+            ["Lápiz", 30],
+            ["Cuaderno", 20],
+            ["Teléfono", 10]
+        ]
+    },
+    {
+        "question": "Nombra un deporte que se practica con pelota",
+        "answers": [
+            ["Fútbol", 50],
+            ["Baloncesto", 30],
+            ["Tenis", 15],
+            ["Béisbol", 5]
+        ]
+    },
+    {
+        "question": "Nombra algo que llevas a la playa",
+        "answers": [
+            ["Traje de baño", 40],
+            ["Toalla", 30],
+            ["Sombrilla", 20],
+            ["Sandalias", 10]
+        ]
+    }
+]
